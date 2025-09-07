@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/azcomp2000">⬅️ Назад к главному портфолио</a> | 
   <a href="https://github.com/azcomp2000/AI-Predator-Cognitive-Engine">Хищник</a> | 
+  <a href="https://github.com/azcomp2000/AI-Viral-Clip-Factory">AI Viral Clip Factory</a> | 
   <b>HH Recon Cyborg (этот проект)</b> | 
   <a href="https://github.com/azcomp2000/YouTube-SEO-Analyzer">YouTube SEO Analyzer</a>
 </p>
